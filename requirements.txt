@@ -1,0 +1,12 @@
+mysql-connector-python
+pymongo
+neo4j
+pinecone-client
+redis
+influxdb-client
+python-dotenv
+
+
+### To install all the dependencies listed in the file, run the following command:
+
+pip install -r requirements.txt
